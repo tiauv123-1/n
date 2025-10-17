@@ -97,6 +97,8 @@ v96 = "Key_Q"
 v97 = "Key_R"
 v98 = "Key_F"
 v99 = "Key_G"
+
+--[
 v100 = "Key_T"v37 = v30:WaitForChild("Torso")
 v38 = v30:WaitForChild("Head")
 v39 = v30:WaitForChild("LeftLeg")
@@ -161,3 +163,4 @@ v97 = Enum.KeyCode.R
 v98 = Enum.KeyCode.F
 v99 = Enum.KeyCode.G
 v100 = Enum.KeyCode.T
+]--
